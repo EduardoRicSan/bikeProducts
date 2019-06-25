@@ -1,22 +1,5 @@
 {
   "products": [
-    {
-      "id": "asj3452dlkdsaf433",
-      "email": "prueba@2bcore.com",
-      "name": "producto prueba 1",
-      "price": "200"
-    },
-    {
-      "id": "asj3452dlkdsds433",
-      "email": "prueba@2bcore.com",
-      "name": "producto prueba 2",
-      "price": "200"
-    },
-    {
-      "id": "asj3452dlkdsaf191",
-      "email": "lalo19jers.azul@gmail.com",
-      "name": "producto prueba 3",
-      "price": "999"
-    }
+   
         ]
   }
