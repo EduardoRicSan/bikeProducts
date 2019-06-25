@@ -1,17 +1,20 @@
 {
   "products": [
     {
-      "id": "jesus.sandoval@2bcore.com",
+      "token": 123456789,
+      "email": "prueba@2bcore.com",
       "name": "producto prueba",
       "price": 200
     },
     {
-      "id": "jesus.sandoval@2bcore.com",
+      "token": 123456789,
+      "email": "prueba@2bcore.com",
       "name": "producto prueba 2",
       "price": 200
     },
     {
-      "id": "lalo19jers.azul@gmail.com",
+      "token": 123456789000,
+      "email": "lalo19jers.azul@gmail.com",
       "name": "producto prueba 3",
       "price": 200
     }
