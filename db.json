@@ -3,17 +3,17 @@
     {
       "email": "prueba@2bcore.com",
       "name": "producto prueba",
-      "price": 200
+      "price": "200"
     },
     {
       "email": "prueba@2bcore.com",
       "name": "producto prueba 2",
-      "price": 200
+      "price": "200"
     },
     {
       "email": "lalo19jers.azul@gmail.com",
       "name": "producto prueba 3",
-      "price": 999
+      "price": "999"
     }
         ]
   }
